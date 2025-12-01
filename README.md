@@ -1,2 +1,2 @@
 # PY-Spark---Beginner-Masterclass
-All concepts covered with PY-Spark coding within in Databricks Notebook
+All concepts covered with PY-Spark coding within in Databricks Notebook,Leveraging all features of the Databricks Ecosystem.
